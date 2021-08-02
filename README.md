@@ -13,3 +13,5 @@ Modules required:
     . BeautifulSoup
     
     . Urllib3
+
+Project deployment link  - https://scrappyflask.herokuapp.com/
